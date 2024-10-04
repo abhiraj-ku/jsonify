@@ -1,6 +1,6 @@
 ## simple Json parser written in go
 
-json(javascript object notation) has become the de-facto data exchange medium over internet for client and server
+json has become the de-facto data exchange medium over internet for client and server
 This is my attempt to understand how json parsing is done under the hood. This project is inspired by [Build Your Own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser/)
 
 ---
